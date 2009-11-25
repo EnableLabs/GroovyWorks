@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>net.vitarara</groupId> 
+	<version>0.1-SNAPSHOT</version> 
+	<artifactId>groovyworks-example</artifactId>
+	<name>Groovy Works Example Application</name>
+	<description>Groovy Works - A Marriage of Groovy and Struts 2</description>
+	<packaging>war</packaging>
+	
+	<dependencies>
+
+		<dependency>
+			<groupId>net.vitarara</groupId>
+			<artifactId>groovyworks-spring-plugin</artifactId>
+			<version>0.1</version>
+		</dependency>
+
+		<!-- Junit -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!--  Struts 2 -->
+		<dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-core</artifactId>
+            <version>2.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-sitemesh-plugin</artifactId>
+            <version>2.0.6</version>
+        </dependency>
+
+		<!-- Freemarker -->
+		<dependency>
+			<groupId>freemarker</groupId>
+			<artifactId>freemarker</artifactId>
+			<version>2.3.4</version>
+		</dependency>
+
+		<!-- Servlet & Jsp -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jsp-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<!-- Jakarta Commons -->
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+			<version>1.0.4</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-fileupload</groupId>
+			<artifactId>commons-fileupload</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>groovy</groupId>
+			<artifactId>groovy-all</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+		<!-- Dwr -->
+		<dependency>
+			<groupId>uk.ltd.getahead</groupId>
+			<artifactId>dwr</artifactId>
+			<version>1.1-beta-3</version>
+		</dependency>
+
+		<!-- SiteMesh -->
+		<dependency>
+			<groupId>opensymphony</groupId>
+			<artifactId>sitemesh</artifactId>
+			<version>2.2.1</version>
+		</dependency>
+
+		<!-- Hibernate -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-entitymanager</artifactId>
+			<version>3.2.0.ga</version>
+		</dependency>
+
+		<!-- EJB 3.0 JPA Persistence API -->
+		<dependency>
+			<groupId>javax.persistence</groupId>
+			<artifactId>persistence-api</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+        <!-- JasperReports is available under
+             the GPL,  LGPL, and commercial licenses.
+             http://www.jaspersoft.com/pr_licensing.html
+        <dependency>
+            <groupId>jasperreports</groupId>
+            <artifactId>jasperreports</artifactId>
+            <version>1.2.1</version>
+        </dependency>
+        -->
+
+		<!-- Log4j -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.11</version>
+		</dependency>
+
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-beans</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-core</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jpa</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-web</artifactId>
+			<version>2.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-dbcp</groupId>
+			<artifactId>commons-dbcp</artifactId>
+			<version>1.2.1</version>
+		</dependency>
+		<dependency>
+			<groupId>aspectj</groupId>
+			<artifactId>aspectjweaver</artifactId>
+			<version>1.5.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jruby</groupId>
+			<artifactId>jruby-complete</artifactId>
+			<version>0.9.8</version>
+		</dependency>
+		<dependency>
+			<groupId>org.beanshell</groupId>
+			<artifactId>bsh</artifactId>
+			<version>2.0b4</version>
+		</dependency>
+
+		<!-- Knock out some Xerces dependencies that cause an issue. -->
+		<!--
+        <dependency>
+			<groupId>xerces</groupId>
+			<artifactId>xercesImpl</artifactId>
+			<version>2.0.2</version>
+			<scope>provided</scope>
+        </dependency>
+        <dependency>
+			<groupId>xml-apis</groupId>
+			<artifactId>xml-apis</artifactId>
+			<version>2.0.2</version>
+			<scope>provided</scope>
+        </dependency>
+		-->
+
+    </dependencies>
+	
+	<repositories>
+		<!--
+        <repository>
+            <id>Struts 2 Repository</id>
+            <url>http://people.apache.org/builds/struts/2.0.6/m2-staging-repository/</url>
+        </repository>
+		-->
+     	<repository>
+            <id>snapshots-maven-codehaus</id>
+            <name>snapshots-maven-codehaus</name>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+                <checksumPolicy>ignore</checksumPolicy>
+            </snapshots>
+            <releases>
+                <enabled>false</enabled>
+            </releases>
+            <url>http://snapshots.maven.codehaus.org/maven2</url>
+        </repository>
+    </repositories>
+    
+    <build>
+		<finalName>groovyworks</finalName>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+			</resource>
+			<!--
+			<resource>
+				<directory>src/main/groovy</directory>
+			</resource>
+			-->
+		</resources>
+    	<plugins>
+    		<plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                   <source>1.5</source>
+                   <target>1.5</target>
+                </configuration>
+            </plugin>
+    		<plugin>
+    			<groupId>org.mortbay.jetty</groupId>
+    			<artifactId>maven-jetty-plugin</artifactId>
+    			<version>6.1.1</version>
+    			<configuration>
+  					<testClassesDirectory>src/main/groovy/</testClassesDirectory>
+					<useTestClasspath>true</useTestClasspath> 
+					<contextPath>/groovyworks</contextPath>
+					<systemProperties>
+						<systemProperty>
+							<name>slf4j</name>
+							<value>false</value>
+							<name>log4j.configuration</name>
+							<value>file:./target/classes/log4j.properties</value>
+						</systemProperty>
+					</systemProperties>
+    				<scanIntervalSeconds>0</scanIntervalSeconds>
+    			</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<configuration>
+					<excludes>
+						<exclude>**/*ITest.java</exclude>
+					</excludes>
+				</configuration>
+				<version>2.1.3</version>
+			</plugin>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>compile</id>
+							<phase>compile</phase>
+							<configuration>
+								<tasks>
+									<taskdef name="groovyc" classname="org.codehaus.groovy.ant.Groovyc">
+										<classpath refid="maven.compile.classpath"/>
+									</taskdef>
+									<mkdir dir="${project.build.outputDirectory}"/>
+									<groovyc destdir="${project.build.outputDirectory}" srcdir="${basedir}/src/main/java/" listfiles="true">
+										<classpath refid="maven.compile.classpath"/>
+									</groovyc>
+								</tasks>
+							</configuration>
+							<goals>
+								<goal>run</goal>
+							</goals>
+						</execution>
+						<execution>
+							<id>test-compile</id>
+							<phase>test-compile</phase>
+							<configuration>
+								<tasks>
+									<taskdef name="groovyc" classname="org.codehaus.groovy.ant.Groovyc">
+										<classpath refid="maven.compile.classpath"/>
+									</taskdef>
+									<mkdir dir="${project.build.testOutputDirectory}"/>
+									<groovyc destdir="${project.build.testOutputDirectory}" srcdir="${basedir}/src/test/java/" listfiles="true">
+										<classpath refid="maven.test.classpath"/>
+									</groovyc>
+								</tasks>
+							</configuration>
+							<goals>
+								<goal>run</goal>
+							</goals>
+						</execution>
+					</executions>
+			</plugin>
+    	</plugins>
+    </build>
+	<profiles>
+		<profile>
+			<id>itest</id>
+			<activation>
+				<property>
+					<name>itest</name>
+				</property>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<executions>
+							<execution>
+								<id>surefire-it</id>
+								<phase>integration-test</phase>
+								<goals>
+									<goal>test</goal>
+								</goals>
+								<configuration>
+									<excludes>
+										<exclude>none</exclude>
+									</excludes>
+									<includes>
+										<include>**/*ITest.java</include>
+									</includes>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

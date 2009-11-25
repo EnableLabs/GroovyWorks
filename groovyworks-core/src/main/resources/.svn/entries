@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/groovyworks-core/src/main/resources"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="struts-plugin.xml"
+   text-time="2007-07-21T16:54:23.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="d1f9a0c3ebd53c903ee5e995e6d7c747"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

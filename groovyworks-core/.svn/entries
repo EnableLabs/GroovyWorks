@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/groovyworks-core"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="NOTICE.txt"
+   text-time="2007-07-21T16:54:22.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="29a29916df4f0345e92e831099599247"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="6"
+   name="pom.xml"
+   text-time="2007-07-30T13:54:48.000000Z"
+   committed-date="2007-07-30T13:56:30.629660Z"
+   checksum="0255e231b9d897fa94edf2af6f7403a6"
+   last-author="Mark.VitaRara"
+   kind="file"
+   revision="6"/>
+</wc-entries>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/groovyworks-core/src/main/java/net/vitarara/groovyworks"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   name="GroovyStrutsSpringObjectFactory.java.save"
+   kind="file"
+   deleted="true"
+   revision="5"/>
+<entry
+   name="CachingScriptClassLoader.java.save"
+   kind="file"
+   deleted="true"
+   revision="5"/>
+<entry
+   committed-rev="2"
+   name="GroovyStrutsSpringObjectFactory.java"
+   text-time="2007-07-21T18:38:45.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="8231e99f27ec8639ebfd46c2e04c55b0"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

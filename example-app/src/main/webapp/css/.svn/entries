@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/webapp/css"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="main.css"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="372aa89af3480a63a7e8e6610099897e"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="menu.css"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="ad99dbf6748f4dd86e83d2e6547a9e9b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="menu-styles.css"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="c9fdc5eb7f051309d28366034006f7a5"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

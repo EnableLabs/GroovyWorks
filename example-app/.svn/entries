@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="7"
+   name="pom.xml"
+   text-time="2007-07-30T13:59:42.000000Z"
+   committed-date="2007-07-30T14:01:41.406026Z"
+   checksum="246a8f75a74da0900fc980b74b4ac9e6"
+   last-author="Mark.VitaRara"
+   kind="file"
+   revision="7"/>
+</wc-entries>

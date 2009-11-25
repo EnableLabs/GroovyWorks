@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/resources"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="struts.properties"
+   text-time="2007-03-11T01:46:39.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="8ded7631dfbfd9978f2f95e60e2beae8"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="struts.xml"
+   text-time="2007-07-28T23:53:42.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="e8c9f2ba36c7d615718cfacc23559997"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="applicationContext.xml"
+   text-time="2007-03-11T17:05:33.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="e51e0c4bed3fe4949f00a596176d501b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="xwork-conversion.properties"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="9ab50f160c63a9699e1e49d3a4efdbec"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="log4j.properties"
+   text-time="2007-03-10T23:33:11.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="5cca7f64611ad922b6aa90f04296281b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

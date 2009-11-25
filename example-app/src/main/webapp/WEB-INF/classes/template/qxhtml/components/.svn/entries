@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/webapp/WEB-INF/classes/template/qxhtml/components"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="datecell.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="2def3580083c0fd04ccfd3bcc57d9758"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="partyfield.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="5867d4b6db8bbdb0444b7cda600d2ac3"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="tdincrementer.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="a3c3841a9d668ec4fe41a483cd6a05f5"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="textcell.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="4f9cbf3fae9072914f1b1439e0701faf"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="address.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="8cf311c03ea3557b238ea7a5eedf3f72"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="addresscell.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="669d7a14a6fc53ee0a3000dbad1b3f15"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

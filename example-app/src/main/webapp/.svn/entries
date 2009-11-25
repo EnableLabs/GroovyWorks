@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/webapp"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="index.jsp"
+   text-time="2007-03-10T23:50:57.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="492c9dc6f3a8ddc1e179b157d4fb08e7"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   name="WEB-INF"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+</wc-entries>

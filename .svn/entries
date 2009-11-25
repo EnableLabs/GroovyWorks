@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-07-29T12:42:27.216140Z"
+   url="https://groovyworks.googlecode.com/svn/trunk"
+   kind="dir"
+   uuid="37dc024f-6636-0410-92d9-8f0c65ec11b6"
+   revision="1"/>
+<entry
+   name="groovyworks-core"
+   kind="dir"/>
+<entry
+   name="example-app"
+   kind="dir"/>
+</wc-entries>

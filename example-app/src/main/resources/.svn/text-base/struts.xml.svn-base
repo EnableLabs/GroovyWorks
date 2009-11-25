@@ -1,0 +1,12 @@
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+	    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	<package name="myDefault" extends="struts-default" namespace="/default">
+		<action name="index" class="groovyworks.MyAction.groovy">
+			<result name="input">/WEB-INF/pages/Index.jsp</result>
+			<result name="success">/WEB-INF/pages/Index.jsp</result>
+		</action>
+	</package>
+</struts>

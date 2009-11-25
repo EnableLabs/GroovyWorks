@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/webapp/WEB-INF"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   name="pages"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="sitemesh.xml"
+   text-time="2007-02-24T13:30:06.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="2960e9374410ee1562856693c37e678c"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="decorators.xml"
+   text-time="2007-02-24T13:30:06.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="40e5d4c4c7a9717a209a00bfbd033fd1"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   name="decorators"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="7"
+   name="web.xml"
+   text-time="2007-07-29T20:56:14.000000Z"
+   committed-date="2007-07-30T14:01:41.406026Z"
+   checksum="81e164fde1e7dbe4c26474fd839d182e"
+   last-author="Mark.VitaRara"
+   kind="file"
+   revision="7"/>
+<entry
+   name="classes"
+   kind="dir"/>
+</wc-entries>

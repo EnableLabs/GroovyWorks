@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/main/webapp/WEB-INF/classes/template/qxhtml"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="radiomap.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="687ef7e8a6e60c60f95c082467187237"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="form-close-validate.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="f9242266dadceb2c766447cb86e21eaf"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="empty.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="controlfooter.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="6713d5795432747e2ae4acbcc17801ea"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="controlfooter-trlogic.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="69017046ea945e94ea7db32af1a2e6fa"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   name="components"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="submit.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="1776649f7f54e8fdbc61b5adc65c8de7"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="combobox.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="06543ce0e41a6cd4de7d8599d17a0486"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="doubleselect.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="09a2da5a39404e110d1b1986f0c625a3"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="datepicker.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="fa99b3330f206cd8d988c528c9457817"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="updownselect.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="f3ce84aef05dbf447c576acf7150cd4b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="optiontransferselect.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="228352fec191ba1bea35aa4f719a04bb"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="textarea.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="ef6f149f7a25cd676f202d84fc21ab5e"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="controlheader-core.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="ac5fd786b18ef358b15a022cb9cd91d6"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="file.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="cd38566f7ac99adda361b965e618092a"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="checkboxlist.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="7a7afa3818d5a83c4fc0a2882d651967"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="reset.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="82054a9b3862a7533e9a5deda54e5e0e"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="styles.css"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="bcd577d9eb1ad6ac841f7397c8286024"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="controlheader.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="691d60c7bd854c5579fe19f89af03317"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="controlheader-trlogic.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="cd479f824b02ae5eee36aadcdda2b820"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="form-validate.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="68b4316113ed6f283d3f793cbcdfe93c"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="myText.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="afa5e26e830bb0e0c1a745b09e04a22a"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="head.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="a014d8a9f98ca5386ff3e7d03ecc3df1"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="richtexteditor.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="470b3ee86898e07edeefc513348538b3"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="password.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="ffa3dfbffd12f9d55b4d6a3995502846"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="form.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="f66064ece42db24f773102494509872b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="form-close.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="d46b5d0cb6daabd1ae2ce221e36d0eb5"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="theme.properties"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="2eb06fda2cacc2ebc75fe2b4e06c3d54"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="ftlCustomTemplate.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="84a13ca2c5ff3b02bcc53baaca3912f9"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="label.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="70817fadaa5d46b53b350ad972417e62"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="select.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="a02317ab97c41e80b86114bb49f16f42"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="validation.js"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="7bb640cd21fdd54a238916132a00d414"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="text.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="e7d2079d73df178bdcfc6a692dac6fd9"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="checkbox.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="c7069484b1fdce5c4c82f13fb440858c"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="debug.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="2401d800dca1abb9bcd6496a1d722b89"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="tooltip.ftl"
+   text-time="2007-02-24T13:30:05.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="a91e96967342c0588660f816797587c3"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+</wc-entries>

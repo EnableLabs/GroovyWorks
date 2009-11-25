@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-07-29T12:59:32.755707Z"
+   url="https://groovyworks.googlecode.com/svn/trunk/example-app/src/test/java/groovyworks"
+   last-author="Mark.VitaRara"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="SpringITest.groovy"
+   text-time="2007-03-11T16:58:47.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="7d76b5f7367c73eeec695506abc8005c"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="MyActionITest.groovy"
+   text-time="2007-03-11T16:56:52.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="13e77b9e00fa679385f1fd18d5ffae10"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name="SpringContextTestFactory.groovy"
+   text-time="2007-03-11T16:53:55.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="92ba8ed3c469ddb2f4c9c675df81289b"
+   last-author="Mark.VitaRara"
+   kind="file"/>
+<entry
+   committed-rev="2"
+   name=".SpringContextTestFactory.groovy.swp"
+   text-time="2007-03-11T18:14:27.000000Z"
+   committed-date="2007-07-29T12:59:32.755707Z"
+   checksum="2cf12a4c37906c566718f503906a77fd"
+   last-author="Mark.VitaRara"
+   kind="file"
+   prop-time="2007-07-29T12:55:47.000000Z"/>
+</wc-entries>
